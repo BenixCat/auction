@@ -58,3 +58,10 @@ while not  is_over:
         bid = input("What is your bid?: $")
         people_bid[name] = bid
         are_there_any = input("Are there any other bidders? Type 'yes or 'no'.").lower()
+
+
+# I know there is a better way to do this, but I am a beginner and I am trying to learn.
+# I will try to improve my code in the future.
+# I hope you like it.
+# I am open to any suggestions or improvements.
+# Thank you for your time.
